@@ -1,0 +1,6 @@
+voda - 977
+zlato - 19530
+asfalt - 1300
+olovo - 11340
+papír - 800
+teflon -2200
